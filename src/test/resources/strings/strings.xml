@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <!-- Drop down values -->
+    <string name="enables">true</string>
+    <string name="disables">false</string>
+
+
+</resources>
